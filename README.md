@@ -22,7 +22,7 @@ Download and install gazebo you can go to the website :http://gazebosim.org/inst
 
 
 ## Ros Version
-ros-noetic
+ros-noetic(ubuntu 20.04)
 
 ## Gazebo
 ```
