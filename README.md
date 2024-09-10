@@ -21,7 +21,8 @@ Download and install gazebo you can go to the website :http://gazebosim.org/inst
 | HUNTER 2.0       | √              |
 
 
-
+## Ros Version
+ros-noetic
 
 ## Gazebo
 ```
