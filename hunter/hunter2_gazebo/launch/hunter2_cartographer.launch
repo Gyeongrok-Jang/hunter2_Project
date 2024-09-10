@@ -13,6 +13,8 @@
       <remap from="/odom" to="/ackermann_steering_controller/odom"/>
       <!--remap from="/scan" to="/scan_multi"/-->
       <remap from="/points2" to="/velodyne_points"/>
+      <remap from="/imu" to="/imu/data"/>
+
    </node>
    
 
