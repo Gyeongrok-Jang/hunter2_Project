@@ -30,4 +30,3 @@ roslaunch hunter2_gazebo hunter2_empty_world.launch
 ## Cartographer
 ```
 roslaunch hunter2_gazebo hunter2_cartographer.launch
-```
