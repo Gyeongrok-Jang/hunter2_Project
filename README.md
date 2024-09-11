@@ -13,7 +13,6 @@ Download and install gazebo you can go to the website :http://gazebosim.org/inst
 ------
 
 
-
 ## Current support Gazebo simulation product list
 
 | Product name     | support status |
@@ -21,7 +20,8 @@ Download and install gazebo you can go to the website :http://gazebosim.org/inst
 | HUNTER 2.0       | √              |
 
 
-
+## Ros Version 
+ros-noetic
 
 ## Gazebo
 ```
@@ -31,5 +31,3 @@ roslaunch hunter2_gazebo hunter2_empty_world.launch
 ```
 roslaunch hunter2_gazebo hunter2_cartographer.launch
 ```
-
-# ROS2
